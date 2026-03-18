@@ -1,0 +1,12 @@
+Objectives (AWT and Swing)
+To understand the concept of AWT (Abstract Window Toolkit) and Swing for building GUI applications in Java.
+
+To learn how to create windows, frames, buttons, labels, text fields, and other components.
+
+To handle events using event listeners to make applications interactive.
+
+To practice designing user-friendly and visually appealing GUI applications.
+
+Conclusion
+AWT and Swing provide the tools to build graphical user interfaces in Java. While AWT offers basic GUI components, Swing provides a richer set of lightweight, flexible, and customizable components. By learning event handling and component management, developers can create interactive and user-friendly applications efficiently.
+
